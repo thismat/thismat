@@ -11,7 +11,8 @@ Things I love:
   - [Moonlaner](https://www.zsa.io/moonlander/) (Previous)'
 - 🧊 [Nord](https://www.nordtheme.com/)
   - [Windows Terminal Port](https://github.com/thismat/nord-windows-terminal)
+- A lot more things like volunteering in my local community
 
+---
 
-
-
+I'm just trying to make a positive impact on the world. 
