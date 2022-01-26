@@ -18,4 +18,4 @@ Things I love:
 
 I write software for a living because it's creative, it's challenging, it lets me solve fun problems.
 
-I don't need to change the world, but I would like to leave a positive impact on the people and things I interact with.
+Let's have an adventure!
