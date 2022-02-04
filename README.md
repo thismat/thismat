@@ -13,6 +13,8 @@ Things I love:
   - [Moonlander](https://www.zsa.io/moonlander/) (Previous)
 - 🧊 [Nord](https://www.nordtheme.com/)
   - [Windows Terminal Port](https://github.com/thismat/nord-windows-terminal)
+- 🧛 [Dracula]
+  - [Windows Terminal Port](https://github.com/dracula/windows-terminal)
 - A lot more things like volunteering with my local refugee resettlement agencies
 
 ---
