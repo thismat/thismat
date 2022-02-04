@@ -7,7 +7,8 @@ Things I love:
 - 🚙 Road trips with my family to see ⛰️ and 🏖️ and all kinds of historical cities and places
 - 🤓 neovim, and vim mode everywhere
 - ⌨️ [Keyboards](https://github.com/thismat/qmk_firmware)
-  - [Boardwalk](https://mkultra.click/boardwalk-pcb) (Current)
+  - [Iris](https://github.com/thismat/qmk_firmware/tree/master/keyboards/keebio/iris/keymaps/thismat) (Current)
+  - [Boardwalk](https://mkultra.click/boardwalk-pcb) (Previous)
   - [Quefrency](https://keeb.io/collections/quefrency-split-staggered-65-keyboard) (Previous)
   - [Moonlander](https://www.zsa.io/moonlander/) (Previous)
 - 🧊 [Nord](https://www.nordtheme.com/)
